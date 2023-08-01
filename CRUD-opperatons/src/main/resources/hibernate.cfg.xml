@@ -9,9 +9,9 @@
     <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
     <!--    adding connection url-->
     <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/book_shop</property>
-    <!--    adding user_name-->
+    <!--    adding user_name -->
     <property name="hibernate.connection.username">Your_username_here</property>
-    <!--    adding password-->
+    <!--    adding password -->
     <property name="hibernate.connection.password">Your_password_here</property>
     <!--      configures the Hibernate dialect for the MySQL database-->
     <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
