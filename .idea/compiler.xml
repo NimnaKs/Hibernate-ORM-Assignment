@@ -10,6 +10,7 @@
         <module name="oneToManyRelationship" />
         <module name="oneToOneRelationship" />
         <module name="CRUD-opperatons" />
+        <module name="manyToMany" />
       </profile>
     </annotationProcessing>
   </component>

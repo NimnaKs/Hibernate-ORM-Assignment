@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/CRUD-opperatons/pom.xml" />
         <option value="$PROJECT_DIR$/oneToOneRelationship/pom.xml" />
         <option value="$PROJECT_DIR$/oneToManyRelationship/pom.xml" />
+        <option value="$PROJECT_DIR$/manyToManyRelationship/pom.xml" />
       </list>
     </option>
   </component>
